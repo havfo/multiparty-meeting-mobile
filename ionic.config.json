@@ -1,0 +1,7 @@
+{
+	"name": "multiparty-meeting-mobile",
+	"integrations": {
+		"capacitor": {}
+	},
+	"type": "react"
+}
